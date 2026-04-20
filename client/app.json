@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "client",
-    "slug": "client",
+    "name": "Buzzedin",
+    "slug": "buzzedin",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
