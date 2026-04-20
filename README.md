@@ -147,4 +147,4 @@ This project is currently **in active development** as a portfolio piece. Featur
 
 ## 🙋 Author
 
-Built by [your name](https://github.com/your-username) — feel free to connect!
+Built by Rudranil Shil (https://github.com/rudranil723) — feel free to connect!
